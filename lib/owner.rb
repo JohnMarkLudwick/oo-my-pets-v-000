@@ -12,6 +12,4 @@ class Owner
 
 
 
-
-
 end
