@@ -7,5 +7,4 @@ class Fish
     @mood = mood
   end
   
-  
 end
