@@ -27,5 +27,10 @@ class Owner
     "I am a #{species}."
   end
 
+  def name
+    self.name
+  end
+
+
 
 end
