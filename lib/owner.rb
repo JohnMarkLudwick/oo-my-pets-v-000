@@ -62,11 +62,6 @@ class Owner
     end
 
 
-  def sell_pets
-    pets[:fishes, :dogs, :cats].map {|pets| = "nervous"} 
-  end
-  
-
 
 
 end
